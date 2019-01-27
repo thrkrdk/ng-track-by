@@ -1,5 +1,7 @@
 # *ngFor ile trackby kullanımı makalesinin kaynak kodlarıdır.
 
+https://medium.com/@thrkardak/ngfor-ile-trackby-kullan%C4%B1m%C4%B1-bf6aadd440eb
+
 # NgTrackBy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
